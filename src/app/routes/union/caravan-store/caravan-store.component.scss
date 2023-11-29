@@ -1,0 +1,46 @@
+mat-card-content {
+  margin-top: 12px;
+  // margin-inline: 12px;
+  //use all width
+  // width: %;
+}
+
+
+.example-full-width {
+  width: 100%;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+table {
+  width: 100%;
+  border-spacing: 4px 0;
+  border-collapse: initial;
+
+
+}
+
+td {
+  border-right: 3px solid ;
+  border-right-color: #9ca7ab;
+
+/* ;  Remove this line to disable grey background color */
+  border-left: 1px solid ;
+  border-left-color: #9ca7ab;
+}
+
+
+.small-table {
+  font-size: 4px; /* Reducir el tamaño del texto */
+  padding: 2px; /* Reducir el espacio entre las celdas */
+}
+
+.example-card {
+
+  max-width: 140px;
+}
