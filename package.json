@@ -101,6 +101,6 @@
     "stylelint-config-standard": "^34.0.0",
     "ts-node": "~10.9.0",
     "typescript": "~5.1.0",
-    "webpack-bundle-analyzer": "^4.9.0"
+    "webpack-bundle-analyzer": "^4.10.1"
   }
 }
